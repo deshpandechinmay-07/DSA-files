@@ -190,3 +190,11 @@ Better Problem Solving → Better Engineer
 
 ⭐ If you find this repository useful, feel free to explore the solutions.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0182-duplicate-emails) |
+<!---LeetCode Topics End-->
