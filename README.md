@@ -201,4 +201,5 @@ Better Problem Solving → Better Engineer
 | [0197-rising-temperature](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0197-rising-temperature) |
 | [0627-swap-sex-of-employees](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
