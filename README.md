@@ -203,4 +203,5 @@ Better Problem Solving → Better Engineer
 | [1045-customers-who-bought-all-products](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
