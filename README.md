@@ -197,4 +197,5 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
