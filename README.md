@@ -204,4 +204,12 @@ Better Problem Solving → Better Engineer
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1148-article-views-i) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
