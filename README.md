@@ -196,6 +196,7 @@ Better Problem Solving → Better Engineer
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0197-rising-temperature) |
