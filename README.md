@@ -217,11 +217,13 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
