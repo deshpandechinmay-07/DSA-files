@@ -209,6 +209,7 @@ Better Problem Solving → Better Engineer
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## String
 |  |
