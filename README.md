@@ -203,6 +203,7 @@ Better Problem Solving → Better Engineer
 | [0184-department-highest-salary](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
