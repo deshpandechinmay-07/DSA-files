@@ -211,6 +211,7 @@ Better Problem Solving → Better Engineer
 | [1148-article-views-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1179-reformat-department-table) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1484-group-sold-products-by-the-date](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1484-group-sold-products-by-the-date) |
 ## String
 |  |
 | ------- |
