@@ -225,6 +225,7 @@ Better Problem Solving → Better Engineer
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1920-build-array-from-permutation) |
@@ -233,4 +234,12 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
