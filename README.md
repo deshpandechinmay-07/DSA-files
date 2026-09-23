@@ -247,4 +247,12 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0136-single-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
