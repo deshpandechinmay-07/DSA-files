@@ -231,6 +231,7 @@ Better Problem Solving → Better Engineer
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -278,6 +279,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
