@@ -231,6 +231,7 @@ Better Problem Solving → Better Engineer
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0238-product-of-array-except-self) |
@@ -257,6 +258,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0136-single-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0137-single-number-ii) |
 ## Math
 |  |
 | ------- |
