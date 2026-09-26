@@ -215,6 +215,7 @@ Better Problem Solving → Better Engineer
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0657-robot-return-to-origin](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
@@ -313,5 +314,10 @@ Better Problem Solving → Better Engineer
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
