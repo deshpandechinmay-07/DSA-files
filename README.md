@@ -228,6 +228,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0053-maximum-subarray) |
@@ -256,12 +257,14 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
