@@ -262,6 +262,7 @@ Better Problem Solving → Better Engineer
 | [0027-remove-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -277,6 +278,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0050-powx-n) |
+| [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Better Problem Solving → Better Engineer
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
