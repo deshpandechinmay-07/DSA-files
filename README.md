@@ -247,6 +247,7 @@ Better Problem Solving → Better Engineer
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1480-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -265,12 +266,14 @@ Better Problem Solving → Better Engineer
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -329,6 +332,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
