@@ -232,6 +232,7 @@ Better Problem Solving → Better Engineer
 | [0027-remove-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -262,6 +263,7 @@ Better Problem Solving → Better Engineer
 | [0011-container-with-most-water](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
@@ -271,6 +273,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -337,4 +340,12 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
