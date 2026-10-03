@@ -243,6 +243,7 @@ Better Problem Solving → Better Engineer
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
@@ -280,6 +281,7 @@ Better Problem Solving → Better Engineer
 | [0016-3sum-closest](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -309,6 +311,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -368,4 +371,12 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
