@@ -231,6 +231,7 @@ Better Problem Solving → Better Engineer
 | [0016-3sum-closest](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -307,6 +308,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
