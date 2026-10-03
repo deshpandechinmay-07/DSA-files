@@ -244,6 +244,7 @@ Better Problem Solving → Better Engineer
 | [0162-find-peak-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
@@ -282,6 +283,7 @@ Better Problem Solving → Better Engineer
 | [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -348,6 +350,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
