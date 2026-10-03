@@ -246,6 +246,7 @@ Better Problem Solving → Better Engineer
 | [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
@@ -284,6 +285,7 @@ Better Problem Solving → Better Engineer
 | [0088-merge-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -292,12 +294,14 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0136-single-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
@@ -326,6 +330,7 @@ Better Problem Solving → Better Engineer
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
@@ -351,6 +356,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
