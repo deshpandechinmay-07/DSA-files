@@ -288,6 +288,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
@@ -309,6 +310,7 @@ Better Problem Solving → Better Engineer
 | [0004-median-of-two-sorted-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -350,4 +352,8 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
