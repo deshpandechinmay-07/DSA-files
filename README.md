@@ -250,6 +250,7 @@ Better Problem Solving → Better Engineer
 | [0162-find-peak-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0229-majority-element-ii) |
@@ -269,6 +270,7 @@ Better Problem Solving → Better Engineer
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1480-running-sum-of-1d-array) |
@@ -344,6 +346,7 @@ Better Problem Solving → Better Engineer
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
@@ -378,6 +381,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0209-minimum-size-subarray-sum) |
 ## Quicksort
 |  |
 | ------- |
