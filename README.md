@@ -206,6 +206,7 @@ Better Problem Solving → Better Engineer
 | [0197-rising-temperature](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1045-customers-who-bought-all-products) |
