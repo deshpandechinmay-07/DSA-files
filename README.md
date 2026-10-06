@@ -217,6 +217,7 @@ Better Problem Solving → Better Engineer
 | [1327-list-the-products-ordered-in-a-period](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1587-bank-account-summary-ii) |
 ## String
 |  |
 | ------- |
