@@ -222,6 +222,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
@@ -414,4 +415,12 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
