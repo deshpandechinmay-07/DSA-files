@@ -223,10 +223,12 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1929-concatenation-of-array) |
@@ -325,6 +327,7 @@ Better Problem Solving → Better Engineer
 | [0069-sqrtx](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
