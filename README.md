@@ -268,6 +268,7 @@ Better Problem Solving → Better Engineer
 | [0442-find-all-duplicates-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
@@ -405,6 +406,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0713-subarray-product-less-than-k) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Quicksort
