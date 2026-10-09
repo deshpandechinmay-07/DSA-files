@@ -283,6 +283,7 @@ Better Problem Solving → Better Engineer
 | [1920-build-array-from-permutation](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/deshpandechinmay-07/DSA-files/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,6 +347,7 @@ Better Problem Solving → Better Engineer
 | [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/deshpandechinmay-07/DSA-files/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
