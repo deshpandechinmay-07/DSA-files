@@ -279,6 +279,7 @@ Better Problem Solving → Better Engineer
 | [1480-running-sum-of-1d-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -344,6 +345,7 @@ Better Problem Solving → Better Engineer
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
 | ------- |
