@@ -269,6 +269,7 @@ Better Problem Solving → Better Engineer
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
@@ -302,6 +303,7 @@ Better Problem Solving → Better Engineer
 | [0189-rotate-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -318,6 +320,7 @@ Better Problem Solving → Better Engineer
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -371,6 +374,7 @@ Better Problem Solving → Better Engineer
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -407,6 +411,7 @@ Better Problem Solving → Better Engineer
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0713-subarray-product-less-than-k) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Quicksort
@@ -432,6 +437,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
