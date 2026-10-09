@@ -272,6 +272,7 @@ Better Problem Solving → Better Engineer
 | [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -304,6 +305,7 @@ Better Problem Solving → Better Engineer
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -321,6 +323,7 @@ Better Problem Solving → Better Engineer
 | [0414-third-maximum-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
