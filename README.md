@@ -223,6 +223,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0657-robot-return-to-origin) |
 ## Simulation
@@ -409,6 +410,7 @@ Better Problem Solving → Better Engineer
 | [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -439,6 +441,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0169-majority-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
@@ -466,4 +469,8 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
