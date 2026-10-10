@@ -351,6 +351,7 @@ Better Problem Solving → Better Engineer
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deshpandechinmay-07/DSA-files/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
