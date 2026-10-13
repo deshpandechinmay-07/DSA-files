@@ -261,6 +261,7 @@ Better Problem Solving → Better Engineer
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
@@ -353,6 +354,7 @@ Better Problem Solving → Better Engineer
 | [0050-powx-n](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
@@ -487,4 +489,24 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
