@@ -288,6 +288,7 @@ Better Problem Solving → Better Engineer
 | [1920-build-array-from-permutation](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deshpandechinmay-07/DSA-files/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -338,6 +339,7 @@ Better Problem Solving → Better Engineer
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Better Problem Solving → Better Engineer
 | [0387-first-unique-character-in-a-string](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1748-sum-of-unique-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
