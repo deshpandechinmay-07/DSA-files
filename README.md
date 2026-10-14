@@ -268,6 +268,7 @@ Better Problem Solving → Better Engineer
 | [0229-majority-element-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -314,6 +315,7 @@ Better Problem Solving → Better Engineer
 | [0125-valid-palindrome](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
