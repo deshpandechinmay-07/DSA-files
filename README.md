@@ -271,6 +271,7 @@ Better Problem Solving → Better Engineer
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
@@ -319,6 +320,7 @@ Better Problem Solving → Better Engineer
 | [0283-move-zeroes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0905-sort-array-by-parity) |
@@ -336,6 +338,7 @@ Better Problem Solving → Better Engineer
 | [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
@@ -399,6 +402,7 @@ Better Problem Solving → Better Engineer
 | [0209-minimum-size-subarray-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0658-find-k-closest-elements) |
@@ -429,6 +433,7 @@ Better Problem Solving → Better Engineer
 | [0217-contains-duplicate](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0560-subarray-sum-equals-k) |
