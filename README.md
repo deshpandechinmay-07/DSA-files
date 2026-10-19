@@ -301,6 +301,7 @@ Better Problem Solving → Better Engineer
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deshpandechinmay-07/DSA-files/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -379,6 +380,7 @@ Better Problem Solving → Better Engineer
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/deshpandechinmay-07/DSA-files/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deshpandechinmay-07/DSA-files/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deshpandechinmay-07/DSA-files/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
