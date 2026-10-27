@@ -376,6 +376,7 @@ Better Problem Solving → Better Engineer
 | [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -388,6 +389,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0050-powx-n](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
