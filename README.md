@@ -362,6 +362,7 @@ Better Problem Solving → Better Engineer
 | ------- |
 | [0136-single-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0287-find-the-duplicate-number) |
 ## Math
@@ -373,6 +374,7 @@ Better Problem Solving → Better Engineer
 | [0069-sqrtx](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0633-sum-of-square-numbers) |
@@ -385,6 +387,7 @@ Better Problem Solving → Better Engineer
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/deshpandechinmay-07/DSA-files/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
